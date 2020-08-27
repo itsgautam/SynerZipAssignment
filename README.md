@@ -7,10 +7,8 @@ Go to the SynerZipAssignment folder and run below command
 
 `npm install`
 
-After that sync the Android project inside the Android Studio to download the dependencies
+# Optional Task
+Sync the Android project inside the Android Studio to download the dependencies
 
 # Build and Run
-Run `npm run android` to build the project. 
-
-
- 
+Run `npm run android` to build the project.

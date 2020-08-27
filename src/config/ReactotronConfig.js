@@ -1,12 +1,11 @@
 /*
  * File Description
- * Reactotron config file
- *
- * Created on Fri Dec 21 2018
+ * 
+ * 
+ * Created on Thu Aug 26 2020
  * Created by: Gautam Sharma
- * Copyright (c) 2018
+ * Copyright (c) 2020
  */
-
 import Reactotron, {
   openInEditor,
   networking,
